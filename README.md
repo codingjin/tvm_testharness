@@ -1,9 +1,9 @@
 # tvm_testharness
 
 
-Step 1: Generate the llvm code file
+Example:
 
-Command: 
 
-python matmul_add_gencode.py 1024 1024 1024
+python matmuladd_timer.py 1024 1024 1024
+
 
